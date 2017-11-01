@@ -1,1 +1,1 @@
-TODO
+To build, run `mvn clean install` for the external_dependencies, then run `mvn clean package` for this project.
